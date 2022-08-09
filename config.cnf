@@ -1,7 +1,0 @@
-IPADDR="10.0.5.2
-        10.0.6.2
-        10.0.14.2
-        10.0.15.2     
-	";
-src="/home/iot/Music/AVC/*";
-dst="/home/avc/AVC";

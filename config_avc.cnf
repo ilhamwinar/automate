@@ -1,0 +1,4 @@
+IPADDR="10.0.5.2  
+	";
+src="/home/iot/Music/AVC/*";
+dst="/home/avc/AVC";

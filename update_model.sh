@@ -1,6 +1,6 @@
 #!/bin/bash 
 
-source config_avc.cnf
+source config_update_model.cnf
 
 for i in $IPADDR
 do
